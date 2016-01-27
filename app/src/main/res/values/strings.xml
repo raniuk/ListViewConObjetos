@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LisView Custom</string>
+    <string name="str_title">Titulo</string>
+    <string name="lbl_message">Clicked on </string>
+</resources>
